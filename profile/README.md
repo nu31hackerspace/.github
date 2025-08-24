@@ -13,5 +13,4 @@
 
 - [Instagram](https://www.instagram.com/nu31hackerspace/)
 - [Наш маленький сайтик](https://nu31.space/)
-- [Discord](https://discord.com/invite/pNGVFb6d)
-
+- [Discord](https://discord.gg/kgTHaaHWyD)
