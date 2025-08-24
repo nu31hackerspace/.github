@@ -14,3 +14,23 @@
 - [Instagram](https://www.instagram.com/nu31hackerspace/)
 - [Наш маленький сайтик](https://nu31.space/)
 - [Discord](https://discord.gg/kgTHaaHWyD)
+
+---
+
+# NU 31 - Kyiv Hacker Space
+
+Hi, you’re on the page of the NGO "NU 31 Hacker Space" – a group of people who care about making engineering in the country better.
+
+We believe in the power of Open Source, which is why everything we do is openly accessible to you under an open license.
+
+### Create whateven – Create anything
+
+* We’re a place where you can make whatever you want, for example, a perpetual motion machine—or maybe you’re the one who will succeed.
+* We break boundaries: you don’t need to be a chemist to create something in a chemistry lab, or have all your fingers to operate a lathe—you just come and do it.
+
+### See who we are in different places
+
+* [Instagram](https://www.instagram.com/nu31hackerspace/)
+* [Our small website](https://nu31.space/)
+* [Discord](https://discord.gg/kgTHaaHWyD)
+
