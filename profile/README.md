@@ -1,4 +1,4 @@
-# NU 31 - Київський hacker space
+# NU 31 - Київський Hackerspace
 
 Привіт ти на сторінці ГО "NU 31 Hacker space" - групи не байдужих до людей як роблять інженерію в країні кращою
 
@@ -17,7 +17,7 @@
 
 ---
 
-# NU 31 - Kyiv Hacker Space
+# NU 31 - Kyiv Hackerspace
 
 Welcome. There is the page of NU31 Hacker Space, an NGO that advances engineering in Ukraine.  
 
